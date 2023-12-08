@@ -45,8 +45,6 @@ data.forEach((t, index_parent)=>{
     })
 })
 let numbers_to_add = []
-//console.log(numbers_and_indicies[numbers_and_indicies.length-1])
-//numbers_and_indicies = [numbers_and_indicies.length-1]
 //we have the number and their indicies. we need to check them against the previous element, the next element, and the indicies beside them.
 numbers_and_indicies.forEach((r, index_numbers_and_indicies)=>{
     let lowest_index = r.indicies[0]
