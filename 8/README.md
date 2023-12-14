@@ -1,0 +1,1 @@
+Had to get help with part 2. I didnt realize that each ghost had a unique path and ended on their own "Z" node. Once I new that I knew the LCM of each of their number of moves would result in the solution. I also needed to lookup the best way to write a least common multiple script of an array of values with javascript.
